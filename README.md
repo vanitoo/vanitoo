@@ -1,44 +1,30 @@
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Привет, меня зовут Иван <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuchezh&layout=compact&theme=buefy)](https://github.com/teuchezh)
 
-<a href="https://vk.com/your_profile">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
-<a href="https://twitter.com/your_profile">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/your_profile">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/your_profile">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/your_profile">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
-<br />
+![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-Привет, меня зовут Иван. Изучаю Git и ещё несколько интересных технологий.
 
-<br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
-  
-**Languages and Tools:**  
+[![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teuchezh&count_private=true&show_icons=true&theme=buefy)](https://github.com/teuchezh)
+[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teuchezh&layout=compact&theme=buefy)](https://github.com/teuchezh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuchezh&layout=compact&theme=buefy)](https://github.com/teuchezh)
+-->
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+[<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/teuchezh/teuchezh/blob/main/github-metrics.svg">](https://github.com/teuchezh/teuchezh)
 
-🚧 **Мои задачи на ближайшее время:**
-<!-- TODO-IST:START -->
+![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&redirect=true) -->
+
+<!-- [<img align="right" width="350" height="auto" alt="if you see this, it means my metrics are not working" src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing">](https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open) -->
+
+![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
+
 * [x] Прокачать свой профиль на Github
 * [ ] Пройти курс по Git на Slurm
 * [ ] Создать свой первый проект на Github       
